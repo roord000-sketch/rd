@@ -1,0 +1,58 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "A fast-paced 3D runner game where you control a ball rolling down a slope.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/225",
+    "iframeUrl": "https://slopegame.io/slope-game.embed",
+    "category": "Action"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "description": "The perfect game for the armchair quarterback to finally prove a point.",
+    "thumbnail": "https://picsum.photos/seed/retrobowl/400/225",
+    "iframeUrl": "https://game316009.konggames.com/gamez/0031/6009/live/index.html",
+    "category": "Sports"
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "description": "How will you live your BitLife? Will you try to make all the right choices?",
+    "thumbnail": "https://picsum.photos/seed/bitlife/400/225",
+    "iframeUrl": "https://bitlifeonline.io/bitlife.embed",
+    "category": "Simulation"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "description": "Fasten your seat belt and get ready for the ultimate tunnel racing experience.",
+    "thumbnail": "https://picsum.photos/seed/tunnel/400/225",
+    "iframeUrl": "https://tunnelrush.io/tunnel-rush.embed",
+    "category": "Action"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer!",
+    "thumbnail": "https://picsum.photos/seed/geometry/400/225",
+    "iframeUrl": "https://geometrydash.io/geometry-dash.embed",
+    "category": "Rhythm"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The original idle game where you bake an absurd amount of cookies.",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/225",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/",
+    "category": "Idle"
+  },
+  {
+    "id": "smash-karts",
+    "title": "Smash Karts",
+    "description": "A 3D multiplayer kart battle game. Drive your kart, pick up weapons, and blow up other karts!",
+    "thumbnail": "https://picsum.photos/seed/smashkarts/400/225",
+    "iframeUrl": "https://smashkarts.io/",
+    "category": "Action"
+  }
+]
